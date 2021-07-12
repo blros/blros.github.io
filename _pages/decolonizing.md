@@ -2,7 +2,7 @@
 layout: page
 title: Decolonizing Libraries (extended abstract)
 sidebar_link: false
-permalink: decolonizing-libraries/
+permalink: /decolonizing-libraries/
 redirect_from:
   - /2015/02/01/decolonizing_libraries/
 ---

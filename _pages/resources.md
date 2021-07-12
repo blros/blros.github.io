@@ -1,18 +1,10 @@
 ---
 layout: page
-title: Resources
+title: Publications
 sidebar_link: true
-permalink: resources/
+permalink: /publications/
 ---
 
-
 ### Selected articles, chapters, reports
-  
-<ul>
-{% for pub in site.data.pubs %}
-<li>
- <a href="{{ pub.link }}">{{ pub.title }}</a>{% if pub.authors %},{% endif %} <em>{{ pub.authors }} ({{ pub.year }})</em>
-</li>
-{% endfor %}
-</ul>
-
+ 
+{% include pub-list.html %}

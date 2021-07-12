@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Bailiwicks
+title: Projects & Bailiwicks
 sidebar_link: true
-permalink: bailiwicks/
+permalink: /projects/
 ---
 
-Below is a selection of my activity across some of the professional territories I roam. The projects and initiatives listed below are all collaborative. I play/ed a significant role in all of them listed below, but not necessarily the lead role. Dates indicate my involvement in a project.
+Below is a selection of my work across some of the professional territories I roam. The projects and initiatives listed below are all collaborative. I play/ed a significant role in all of them listed below, but not necessarily the lead role. Dates indicate my involvement in a project.
 
-**For the more official record, [download my CV](../docs/rosenblum-cv.pdf).**
+**For the more official record [download my CV](../docs/rosenblum-cv.pdf).**
 
 ---
 

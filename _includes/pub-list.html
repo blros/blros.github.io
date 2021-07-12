@@ -1,0 +1,10 @@
+
+{% assign pub-list = site.data.pubs %}  
+<ul>
+{% for pub in pub-list %}
+<li>
+    <a href="{{ pub.url }}"><strong>{{ pub.title }}</strong></a>{% if pub.authors %},{% endif %} <em>{{ pub.authors }} ({{ pub.year }})</em>
+</li>
+{% endfor %}
+</ul>
+
